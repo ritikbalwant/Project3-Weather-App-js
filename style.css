@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: ;
+    box-sizing: border-box;
+
+} /* here * stands for all tags */
+
+body{
+    background: #000;
+}
+
